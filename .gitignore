@@ -1,0 +1,15 @@
+# Compilados
+*.class
+out/
+bin/
+
+# Resultados gerados pelo programa
+TESTE-*-RESULTADO.txt
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
